@@ -1,4 +1,4 @@
-# demo
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -656,7 +656,7 @@ text-align: center;
 
     <button id="top-btn"><a href="#"><i class="fa fa-arrow-up" aria-hidden="true"></i></a></button>
 
-<div class="last"></div>
+
     <script>
         var slideIndex = 1;
         showDivs(slideIndex);
